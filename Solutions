@@ -4,3 +4,5 @@ Solution
 set-executionpolicy remotesigned
 
 Run this command and then must run for "A"
+
+https://stackoverflow.com/questions/58032631/why-powershell-does-not-run-angular-commands
