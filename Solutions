@@ -26,3 +26,10 @@ run build
 
 
 In both npm build and install i specified the version of  package.json path
+
+
+					<<<<       Python      >>>>>
+
+===> in python page is not visible by default on the ip address which is specified, 
+	Solution: use to run command like this python manage.py runserver ip_goes_here:port_goes here
+		  and go to settings.py to "allowed_hosts" to manuplate the allowed urls
